@@ -1,5 +1,35 @@
 .fresh {
   color: Blue;
   font-style: italic;
+}
 
+.best {
+  font-weight: bold;
+  text-align: center;
+}
+
+body {
+  color: lightgray;
+  background-color: maroon;
+}
+
+.bake {
+  text-align: center;
+  font-style: oblique;
+}
+
+.people {
+  font-style: italic;
+}
+
+.title {
+  text-align: center;
+  text-shadow: 2px 2px gray;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: auto;
 }
