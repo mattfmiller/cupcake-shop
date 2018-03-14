@@ -18,8 +18,14 @@ body {
   font-style: oblique;
 }
 
-.people {
+.flashy {
+  color: red;
   font-style: italic;
+}
+
+.menu {
+  color: black;
+  font-family: serif;
 }
 
 .title {
